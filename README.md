@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **RajFamily**
 
-- 🌱 I’m currently learning **NodeJs**
-
 - 💬 Ask me about **TypeScript, NextJS, React**
 
 - 📫 How to reach me **amirvernaw@gmail.com**
